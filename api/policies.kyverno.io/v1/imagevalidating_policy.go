@@ -17,6 +17,7 @@ type (
 	MatchImageReference                       = v1beta1.MatchImageReference
 	ImageExtractor                            = v1beta1.ImageExtractor
 	Credentials                               = v1beta1.Credentials
+	CredentialsProvidersType                  = v1beta1.CredentialsProvidersType
 	StringOrExpression                        = v1beta1.StringOrExpression
 	Certificate                               = v1beta1.Certificate
 	Key                                       = v1beta1.Key
